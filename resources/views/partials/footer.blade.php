@@ -1,3 +1,5 @@
-<footer class="pt-5 my-5 text-muted">
-    Created by <a href="https://codeanddeploy.com">Code And Deploy</a> &middot; &copy; {{ date('Y') }}
-  </footer>
+<footer class="my-2 text-muted text-center fixed bottom-0 w-full bg-white">
+  <div class="container mx-auto">
+      Created by <a href="https://muhdafif.com">Ceks-sama</a> &middot; &copy; {{ date('Y') }}
+  </div>
+</footer>

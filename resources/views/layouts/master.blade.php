@@ -13,9 +13,8 @@
 
 <body>
     @include('partials.header')
-    @include('partials.sidebar')
 
-    <main class="container mt-5">
+    <main class="relative">
         @yield('content')
     </main>
 
